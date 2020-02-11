@@ -1,0 +1,6 @@
+tqdm
+numpy
+matplotlib
+scikit-learn
+tensorflow
+tensorflow_probability
